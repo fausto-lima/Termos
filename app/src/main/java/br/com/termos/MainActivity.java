@@ -7,7 +7,6 @@ import android.view.View;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
     private TextView tvTermos ;
     private TextView tvContrato ;
     private TextView tvTermosAtual ;
